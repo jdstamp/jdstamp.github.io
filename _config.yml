@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julian Stamp"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Julian Stamp"
-description              : &description "PhD student at the Center for Computational Molecular Biology."
+description              : &description ""
 url                      : https://jdstamp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jdstamp/jdstamp.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "JulianStamp1"
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Julian Stamp"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student at the Center for Computational Molecular Biology."
+  location         : "Brown University, Providence"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=julian+stamp"
+  googlescholar    : "https://scholar.google.com/citations?user=hhnuEIYAAAAJ"
+  email            : "julian.d.stamp@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jdstamp"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "julian-stamp-03a5a3179"
+  orcid            : "https://orcid.org/0000-0003-3014-6249"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "8232033/williamjds"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "JulianStamp1"
   vine             :
   weibo            :
   xing             :
