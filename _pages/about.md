@@ -12,4 +12,4 @@ redirect_from:
   My research focuses on developing statistical methods to study the genetic architecture of complex traits and how nonlinear interactions between multiple genes and between genes and the environment shape evolution.
 
 
-  When I am not working, I enjoy running, traveling, and recently gardening.
+  When I am not working, I enjoy running, traveling, and gardening.
