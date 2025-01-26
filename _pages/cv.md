@@ -53,8 +53,8 @@ Service and leadership
 Languages
 ======
 * German (native)
-* English (fluent)
-* French (intermediate)
+* English (proficient)
+* French (fluent)
 * Spanish (beginner)
 
 My CV as [PDF]({{site.url}}/files/CV_JulianStamp.pdf).
