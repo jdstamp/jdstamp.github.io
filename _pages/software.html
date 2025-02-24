@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
+---
+{% include base_path %}
+
+<!-- Only render items in the "software" publication category -->
+{% if site.publication_category %}
+  {% assign title_shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.category != "software" %}
+      {% continue %}
+    {% endif %}
+    {% unless title_shown %}
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single-software.html %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% if post.category == "software" %}
+      {% include archive-single-software.html %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
