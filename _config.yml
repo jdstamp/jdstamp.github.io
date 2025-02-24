@@ -220,7 +220,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  software:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -261,6 +261,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications # for sofwtare
+  - scope:
+      path: ""
+      type: software
     values:
       layout: single
       author_profile: true

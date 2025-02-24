@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+
+My resume as [PDF]({{site.url}}/files/Resume_JulianStamp.pdf).
+
 {% include base_path %}
 
 Summary
@@ -104,5 +107,3 @@ Languages
 * English (proficient)
 * French (fluent)
 * Spanish (beginner)
-
-My CV as [PDF]({{site.url}}/files/CV_JulianStamp.pdf).

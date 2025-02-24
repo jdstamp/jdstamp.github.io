@@ -6,6 +6,7 @@ permalink: /publication/2025-sme-software
 excerpt: ''
 date: 2025-01-14
 venue: 'GitHub, CRAN'
-paperurl: 'https://lcrawlab.github.io/sme/'
-citation: 'J. Stamp, L. Crawford (20255). smer: Sparse Marginal Epistasis Test. https://github.com/lcrawlab/sme, https://lcrawlab.github.io/sme, https://cran.r-project.org/package=smer. (R Package)'
+docurl: 'https://lcrawlab.github.io/sme'
+citation: 'J. Stamp, L. Crawford (2025). smer: Sparse Marginal Epistasis Test. https://github.com/lcrawlab/sme. (R Package)'
+cran: 'https://cran.r-project.org/package=smer'
 ---
