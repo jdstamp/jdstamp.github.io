@@ -14,7 +14,7 @@ My resume as [PDF]({{site.url}}/files/Resume_JulianStamp.pdf).
 
 Summary
 ======
-I am a Researcher with a strong technical and statistical background, **5+ years of experience in research and industry** working with **Python, R, and C++** as well as **Machine Learning** algorithms. I am the **author and maintainer** of multiple **open-source statistical software** packages.
+I am a researcher with a strong technical and statistical background, and **5+ years of experience in research and industry**. My work focuses on **machine learning** and **statistical modeling**, using **Python, R, and C++**. I am the **author and maintainer** of multiple **open-source statistical software** packages.
 
 ---
 
